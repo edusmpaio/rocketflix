@@ -12,6 +12,8 @@ Desafio prático do programa Discover, da Rocketseat.
 
 O projeto consiste em um gerador de filmes, utilizando a API do [themoviedb.org](http://themoviedb.org/) para exibir um filme aleatório sempre que o usuário clicar no botão "Encontrar Filme".
 
+## 💻 Deploy
+
 🔗 [Clique aqui](https://rocketflix-edusmpaio.vercel.app/) para acessar o projeto.
 
 ## 🚀 Tecnologias utilizadas

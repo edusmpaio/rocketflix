@@ -1,7 +1,7 @@
 <h1 align="center">Rocketflix</h1>
 
 <p align="center">
-Desafio prático do programa discover, da Rocketseat.
+Desafio prático do programa Discover, da Rocketseat.
 </p>
 
 <p align="center">
